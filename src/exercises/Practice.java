@@ -9,8 +9,8 @@ public class Practice {
     public static void main(String[] args) {
         System.out.println(factorial(5));
         System.out.println(fibonacci(6));
-//        printEvenNumbers();
-//        reverseNumber();
+        printEvenNumbers();
+        reverseNumber();
         reverseNumberViaWhile();
     }
 
